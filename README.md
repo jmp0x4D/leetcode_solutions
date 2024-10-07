@@ -4,7 +4,7 @@ This repository contains my personal solutions to various LeetCode problems, wri
 
 ## Structure
 
-The solutions are stored in /src/bin and can be run using ```bash cargo run --bin <name_of_solution>``` (assuming rust/cargo is installed)
+The solutions are stored in /src/bin and can be run using `cargo run --bin <name_of_solution>` (assuming rust/cargo is installed)
 
 The solutions are organized by the order I solved them rather than the order listed on LeetCode. This approach allows me to track my development over time.
 
